@@ -26,9 +26,9 @@ Who: Local organizer is [Ariel Rokem](http://arokem.org/). Get in touch if you h
 A hackathon is a (usually) short, intense burst of collaborative activity
 focused on project work (usually in groups) on a particular topic. In this case, we will work together on neuroscience topics.
 
-### When you say neuroscience, you mean computational neuroscience/neuroimaging/electrophysiology/choose-your-favorite-subfield?
+### When you say neuroscience, you mean computational-neuroscience/neuroimaging/electrophysiology/choose-your-favorite-subfield?
 
-No. If you want to hack on *any* neuroscience-related question, we would be happy for you to participate.  
+No. If you want to hack on *anything* neuroscience-related, we would be happy for you to participate in this.  
 
 ### So I need to know a lot in advance?
 
