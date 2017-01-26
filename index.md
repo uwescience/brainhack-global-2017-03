@@ -50,13 +50,13 @@ Why would we otherwise do it?
 
 
 <div class="row">
-  <div class="col-md-4">
-  <a href="http://escience.washington.edu"><image src="../images/eScience_Logo_PMS.png" width=300></a>
-  </div>
-  <div class="col-md-4">
-  <a href="http://www.moore.org"><image src="../images/MooreFdn.png" width=200></a>
-  </div>
-  <div class="col-md-4">
-  <a href="http://sloan.org"><image src="../images/SloanLogo.png" width=200></a>
-  </div>
+<div class="col-md-4">
+<a href="http://escience.washington.edu"><image src="../images/eScience_Logo_PMS.png" width=300></a>
+</div>
+<div class="col-md-4">
+<a href="http://www.moore.org"><image src="../images/MooreFdn.png" width=200></a>
+</div>
+<div class="col-md-4">
+<a href="http://sloan.org"><image src="../images/SloanLogo.png" width=200></a>
+</div>
 </div>
