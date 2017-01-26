@@ -4,12 +4,13 @@ layout: default
 
 **Participation is free, but to participate, you must register in advance**
 
-## To register, fill out this [form](https://goo.gl/forms/gLolsdmnFYwonPwC2)
+## To register, fill out this [form](https://goo.gl/forms/qy10TLbKQQdtwuQS2)
 
-What: [Brainhack Global](http://events.brainhack.org/global2017/) is a global
-distributed hackathon in brain science that will take place in more than 20
-locations world-wide during March 2nd-5th. We will join locally on the weekend:
-Saturday, the 4th and Sunday, the 5th.
+### Registration deadline: February 21st, 2017
+
+
+What: [Brainhack Global](http://events.brainhack.org/global2017/) is a
+neuroscience hackathon that will take place in more than 20 locations worldwide March second through the fifth. We will join locally on the weekend: Saturday, the 4th and Sunday, the 5th.
 
 Where: [WRF Data Science Studio](http://escience.washington.edu/wrf-data-science-studio/), 6th floor, Physics/Astronomy Tower
 
@@ -17,7 +18,9 @@ When: March 4th and 5th, 9 AM - 5 PM
 
 How: We ask that participants comply by the [Brainhack code of conduct](http://events.brainhack.org/global2017/codeofconduct.html).
 
-Who: Local organizer is [Ariel Rokem](http://arokem.org/). Get in touch if you have questions!
+Who: Participation is open to all members of the UW community, including
+students post-docs, faculty and other staff. The local organizer is [Ariel Rokem](http://arokem.org/) (email address within). Get in touch if you have
+questions!
 
 # Frequently asked questions:
 
@@ -41,12 +44,24 @@ things you need to know to make the most out of Brainhack Global.
 
 No! Even if you don't have a project in mind, you should come and join forces
 with others. One of the goals of the event is to meet other members of the
-neuroscience and data science communities on UW campus and in Seattle.
+neuroscience and data science communities on the UW campus and in Seattle.
 
+### Do I need a computer?
+
+Yes - if you have a laptop computer, please bring it with you. If you do not
+have a computer, please let [Ariel](http://arokem.org) (email address within)
+know in advance.
+
+### Can I help?
+
+If you want to teach a tutorial about some topic, or you are interested in
+giving a short talk about your research, we would welcome that. If we have
+enough interest in presenting, we will organize a data-blitz on Saturday
+afternoon (short, 1-slide, 5-minute presentations).
 
 ### Is it fun?
 
-Why would we otherwise do it?
+Yes! Of course it is.
 
 ### Sponsors
 
