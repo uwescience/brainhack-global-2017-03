@@ -65,4 +65,6 @@ Yes! Of course it is.
 
 ### Sponsors
 
-[The eScience Institute](http://escience.washington.edu/) is supported by the [Gordon & Betty Moore Foundation](http://www.moore.org) and the [Alfred P. Sloan Foundation](http://sloan.org)
+Brainhack Global is co-sponsored by the [University of Washington Institute for Neuroengineering](uwin.washington.edu)
+
+[The eScience Institute](http://escience.washington.edu/) is supported by the [Gordon & Betty Moore Foundation](http://www.moore.org) and the [Alfred P. Sloan Foundation](http://sloan.org).
