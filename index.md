@@ -17,7 +17,7 @@ When: March 4th and 5th, 9 AM - 5 PM
 
 How: We ask that participants comply by the [Brainhack code of conduct](http://events.brainhack.org/global2017/codeofconduct.html).
 
-Who: Local organizer is [Ariel Rokem](http://arokem.org/). Get in touch if you have questions
+Who: Local organizer is [Ariel Rokem](http://arokem.org/). Get in touch if you have questions!
 
 # Frequently asked questions:
 
@@ -28,18 +28,20 @@ focused on project work (usually in groups) on a particular topic. In this case,
 
 ### When you say neuroscience, you mean computational neuroscience/neuroimaging/electrophysiology/choose-your-favorite-subfield?
 
-No. If you want to hack on *any*  
+No. If you want to hack on *any* neuroscience-related question, we would be happy for you to participate.  
 
 ### So I need to know a lot in advance?
 
-No! Come as you are. If you are interested in learning new things, this an ideal
+No! Come as you are. If you are interested in learning new things, this an great
 environment to do so. Depending on your interests, we might set up some
-tutorials about things, so you can learn the things you need to know to make the
-most out of Brainhack Global.
+tutorials about a few neuroscience and data science topics, so you can learn the
+things you need to know to make the most out of Brainhack Global.
 
 ### But I need to have some data or question?
 
-No! Even if you don't have a project in mind, you should come and join forces with others
+No! Even if you don't have a project in mind, you should come and join forces
+with others. One of the goals of the event is to meet other members of the
+neuroscience and data science communities on UW campus and in Seattle.
 
 
 ### Is it fun?
