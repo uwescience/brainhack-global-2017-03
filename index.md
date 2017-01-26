@@ -48,15 +48,6 @@ neuroscience and data science communities on UW campus and in Seattle.
 
 Why would we otherwise do it?
 
+### Sponsors
 
-<div class="row">
-<div class="col-md-4">
-<a href="http://escience.washington.edu"><image src="../images/eScience_Logo_PMS.png" width=300></a>
-</div>
-<div class="col-md-4">
-<a href="http://www.moore.org"><image src="../images/MooreFdn.png" width=200></a>
-</div>
-<div class="col-md-4">
-<a href="http://sloan.org"><image src="../images/SloanLogo.png" width=200></a>
-</div>
-</div>
+[The eScience Institute](http://escience.washington.edu/) is supported by the [Gordon & Betty Moore Foundation](http://www.moore.org) and the [Alfred P. Sloan Foundation](http://sloan.org)
